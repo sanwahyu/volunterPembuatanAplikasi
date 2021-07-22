@@ -8,3 +8,4 @@ Repositori ini digunakan sebagai sayembara pencarian volunter untuk pembuatan al
 Berikut daftar Volunter yang diterima:
 
 * Oon Arfiandwi, [oo.or.id](https://oo.or.id).
+* Wahyu cahyono, https://www.linkedin.com/in/wahyu-cahyono-a66b44215.
